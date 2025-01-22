@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\project\no1\no1\main.cpp(49,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\no1\no1\main.cpp(76,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\project\no1\no1\main.cpp(193,23): warning C4804: “>”: 在操作中使用类型“bool”不安全
+  no1.vcxproj -> D:\project\no1\x64\Debug\no1.exe
